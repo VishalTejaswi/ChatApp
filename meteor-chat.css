@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+body {
+    background-image: url(chatimage.jpg);
+    /*background-color: #777799;*/
+    padding: 60px;
+}
+
+#mess{
+  color: blue;
+}
+
+.hero-unit{
+  background: rgba(255, 255, 255, 0.5);
+}
